@@ -18,7 +18,7 @@ placeholder name they apply to.
 
 ..  seealso::
 
-    *   `Routing aspects — full reference <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration-aspects>`_ —
+    *   :ref:`Routing aspects — full reference <t3coreapi:routing-advanced-routing-configuration-aspects>` —
         all aspect types including ``LocaleModifier`` and custom mapper implementations.
 
 
@@ -93,7 +93,7 @@ from a realurl-era configuration that used title-plus-UID URLs.
 
 ..  seealso::
 
-    `PersistedPatternMapper reference <https://docs.typo3.org/permalink/t3coreapi:routing-aspect-PersistedPatternMapper>`_
+    :ref:`PersistedPatternMapper reference <t3coreapi:routing-aspect-PersistedPatternMapper>`
 
 
 ..  _extbase-routing-aspects-static-value:
@@ -138,7 +138,7 @@ language without changing the internal values:
 
 ..  seealso::
 
-    `StaticValueMapper reference <https://docs.typo3.org/permalink/t3coreapi:routing-aspect-StaticValueMapper>`_
+    :ref:`StaticValueMapper reference <t3coreapi:routing-aspect-StaticValueMapper>`
 
 
 ..  _extbase-routing-aspects-static-range:
@@ -167,7 +167,7 @@ rather than silently passing through an out-of-range value.
 
 ..  seealso::
 
-    `StaticRangeMapper reference <https://docs.typo3.org/permalink/t3coreapi:routing-aspect-StaticRangeMapper>`_
+    :ref:`StaticRangeMapper reference <t3coreapi:routing-aspect-StaticRangeMapper>`
 
 
 ..  _extbase-routing-aspects-fallback:
@@ -218,7 +218,7 @@ which lets you show a default record rather than an error page.
 
 ..  seealso::
 
-    `Aspect fallback value handling <https://docs.typo3.org/permalink/t3coreapi:routing-aspect-fallback-handling>`_
+    :ref:`Aspect fallback value handling <t3coreapi:routing-aspect-fallback-handling>`
 
 
 ..  _extbase-routing-aspects-precedence:

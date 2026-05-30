@@ -28,10 +28,10 @@ TYPO3 routing concepts first makes Extbase routing much easier to follow.
 
 ..  seealso::
 
-    *   `Routing — readable, SEO-friendly URLs <https://docs.typo3.org/permalink/t3coreapi:routing>`_ —
+    *   :ref:`Routing — readable, SEO-friendly URLs <t3coreapi:routing>` —
         overview of TYPO3 routing, terminology (slug, enhancer, aspect), and page-based routing.
 
-    *   `Route Enhancements and Aspects <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration>`_ —
+    *   :ref:`Route Enhancements and Aspects <t3coreapi:routing-advanced-routing-configuration>` —
         the full reference for all enhancer types and aspects available in TYPO3 Core.
 
 
@@ -109,7 +109,7 @@ via a YAML import:
 
     *   :ref:`site-sets` — site sets and what they can ship.
 
-    *   `Using imports in YAML files <https://docs.typo3.org/permalink/t3coreapi:routing-tips>`_ —
+    *   :ref:`Using imports in YAML files <t3coreapi:routing-tips>` —
         how to split routing configuration across files without site sets.
 
 

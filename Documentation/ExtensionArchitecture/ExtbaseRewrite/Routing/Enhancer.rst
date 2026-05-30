@@ -15,10 +15,10 @@ and handles the plugin argument namespace automatically.
 
 ..  seealso::
 
-    *   `Routing Enhancers <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration-enhancers>`_ —
+    *   :ref:`Routing Enhancers <t3coreapi:routing-advanced-routing-configuration-enhancers>` —
         overview of all enhancer types and how enhancers and aspects work together.
 
-    *   `Extbase plugin enhancer reference <https://docs.typo3.org/permalink/t3coreapi:routing-extbase-plugin-enhancer>`_ —
+    *   :ref:`Extbase plugin enhancer reference <t3coreapi:routing-extbase-plugin-enhancer>` —
         the full reference entry in the Core routing chapter.
 
 
@@ -54,7 +54,7 @@ key):
 
 ..  seealso::
 
-    `Extbase plugin enhancer with explicit namespace <https://docs.typo3.org/permalink/t3coreapi:routing-extbase-plugin-enhancer>`_ —
+    :ref:`Extbase plugin enhancer with explicit namespace <t3coreapi:routing-extbase-plugin-enhancer>` —
     the :yaml:`namespace` property as an alternative to :yaml:`extension` + :yaml:`plugin`.
 
 
@@ -187,7 +187,7 @@ a static value source. A ``\d+`` requirement alone does not — only a
 
 ..  seealso::
 
-    `cHash and routing <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration-enhancers>`_ —
+    :ref:`cHash and routing <t3coreapi:routing-advanced-routing-configuration-enhancers>` —
     background on when and why ``cHash`` is added.
 
 The next step is defining the individual routes inside the enhancer — see

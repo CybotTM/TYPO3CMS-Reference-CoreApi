@@ -15,7 +15,7 @@ order — first match wins, both for incoming requests and for URL generation.
 
 ..  seealso::
 
-    `Route Enhancements and Aspects — route configuration keys <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration-enhancers>`_ —
+    :ref:`Route Enhancements and Aspects — route configuration keys <t3coreapi:routing-advanced-routing-configuration-enhancers>` —
     full reference for ``defaults``, ``requirements``, ``static``, and ``_arguments``.
 
 

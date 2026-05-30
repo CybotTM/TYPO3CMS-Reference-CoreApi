@@ -145,7 +145,7 @@ that add extension-specific defaults and fallback handling.
 
 ..  seealso::
 
-    `Route Enhancements and Aspects <https://docs.typo3.org/permalink/t3coreapi:routing-advanced-routing-configuration>`_ —
+    :ref:`Route Enhancements and Aspects <t3coreapi:routing-advanced-routing-configuration>` —
     the Core routing reference covers custom aspect registration.
 
 

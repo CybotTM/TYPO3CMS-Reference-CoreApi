@@ -176,8 +176,8 @@ with the same attributes — useful when you need to construct the link yourself
 
 ..  seealso::
 
-    *   `f:link.action ViewHelper reference <https://docs.typo3.org/permalink/t3viewhelper:typo3-fluid-link-action>`_
-    *   `f:uri.action ViewHelper reference <https://docs.typo3.org/permalink/t3viewhelper:typo3-fluid-uri-action>`_
+    *   :ref:`f:link.action ViewHelper reference <t3viewhelper:typo3-fluid-link-action>`
+    *   :ref:`f:uri.action ViewHelper reference <t3viewhelper:typo3-fluid-uri-action>`
 
 
 ..  _extbase-routing-uri-builder-checklist:
